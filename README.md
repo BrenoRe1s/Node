@@ -1,5 +1,7 @@
 # Node
-Feito para guardar conceitos básicos 
+Feito para guardar conceitos básicos.
+
+# Arquivos
 pack.json é onde vai ficar todas as dependencias
 yarn.lock é onde fica informações como versãos
 node_modules onde ficaram instaladas as dependencias
