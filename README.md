@@ -17,4 +17,6 @@ nodemon ("nome do arquivo") *Roda o arquivo usando o nodemon(tem que iniciar o n
 # Typerscript
 yarn add @types/express -D(isso é pra ser instalado como dependencia de desenvolvimento) *Adiciona os Types do Typescript que é algo muito usado junto do Express*
 yarn add ts-node -D *bliblioteca que compila pro node*
+
 npx tsc --init *Pra fazer o tsconfig.json*(se não fizer não rechonhece .ts)
+tsc --init *Pra fazer o tsconfig.json*
