@@ -1,5 +1,7 @@
 # Node
-Feito para guardar conceitos básicos 
+Feito para guardar conceitos básicos.
+
+# Arquivos
 pack.json é onde vai ficar todas as dependencias
 yarn.lock é onde fica informações como versãos
 node_modules onde ficaram instaladas as dependencias
@@ -20,3 +22,6 @@ yarn add ts-node -D *bliblioteca que compila pro node*
 
 npx tsc --init *Pra fazer o tsconfig.json*(se não fizer não rechonhece .ts)
 tsc --init *Pra fazer o tsconfig.json*
+
+npx tsc --init *Pra fazer o tsconfig.json*(se não fizer não rechonhece .ts)
+>>>>>>> 6f42adee820c01327a63d82c356491c78c08ae32
